@@ -3,8 +3,9 @@
 
 Meus pronomes são: ele/dele   
 Tenho 19 anos e moro na região sul de São Paulo, SP.   
+Sou formado pela ETEC Jd. Ângela no curso técnico de Desenvolvimento de Sistema e curso Técnico Administrativo.  
 Atualmente Trabalho na empresa Santander Brasil em uma área administrativa como Jovem Aprendiz.  
-Estudo na ETEC Jd. Ângela, onde realizo um curso técnico de Desenvolvimento de Sistema.  
+Realizo curso superior de Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera.
 
 As principais linguagens de programação que eu estudo são:   
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" height="50px"/></code>
